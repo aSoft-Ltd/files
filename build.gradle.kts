@@ -3,7 +3,7 @@ plugins {
     kotlin("multiplatform") version "1.4.20"
     kotlin("plugin.serialization") version "1.4.20"
     id("tz.co.asoft.library") version "1.0.0"
-    id("io.codearte.nexus-staging") version "0.22.00"
+    id("io.codearte.nexus-staging") version "0.22.0"
     signing
 }
 
